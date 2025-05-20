@@ -17,6 +17,8 @@
 
 + [OpenWork by freelance.com](https://www.openwork.co/fr/openwork-portage-salarial)
 + [Jump](https://www.join-jump.com/)
++ [ABC Portage](https://www.abcportage.fr/)
++ [ITG](https://www.itg.fr/)
 
 ### Responsabilité civile professionnelle
 
